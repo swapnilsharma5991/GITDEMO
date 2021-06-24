@@ -66,9 +66,13 @@ public class Rediff_MoneyPage extends base{
 
 	
 	
-	public void loginrediff() {
+	public void loginrediff1() {
+		System.out.println("Test develop branch");
 		
 	}
+	
+	
+
 	public void signInShopping_Rediff(String UserId, String Password) throws InterruptedException{
 		TestUtil.clickOn(driver, link_Shopping, Constants.SHORT_WAIT);
 		TestUtil.clickOn(driver, link_SignIn, Constants.SHORT_WAIT);
