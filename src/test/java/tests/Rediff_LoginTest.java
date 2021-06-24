@@ -45,6 +45,9 @@ public class Rediff_LoginTest extends base {
 		homepage.loginPageWindow();
 		logRP.validateRediffLogin(prop.getProperty("username"), prop.getProperty("password"));
 		log.info("loginRediffTest initiated");
+		System.out.println("test git");
+		System.out.println("test git");
+		System.out.println("test git");
 		
 	}
 //	@DataProvider
