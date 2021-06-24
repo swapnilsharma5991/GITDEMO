@@ -68,6 +68,12 @@ public class Rediff_MoneyPage extends base{
 	
 	public void loginrediff1() {
 		System.out.println("Test develop branch");
+		System.out.println("Test develop approved by vishal");
+		
+	}
+	public void loginrediff3() {
+		System.out.println("Test develop branch");
+		System.out.println("Test develop approved by azhar");
 		
 	}
 	
