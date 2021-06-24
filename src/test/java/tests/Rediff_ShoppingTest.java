@@ -50,6 +50,7 @@ public class Rediff_ShoppingTest extends base {
 		homepage.loginPageWindow();
 		homepage=loginpage.validateRediffLogin(prop.getProperty("username"), prop.getProperty("password"));
 		log.info("loginRediff_Method");
+		System.out.println("Jai bajrang bali");
 	}
 	
 	@DataProvider

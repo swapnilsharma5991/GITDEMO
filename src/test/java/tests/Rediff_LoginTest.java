@@ -48,6 +48,8 @@ public class Rediff_LoginTest extends base {
 		System.out.println("test git");
 		System.out.println("test git");
 		System.out.println("test git");
+		System.out.println("Jai shree ram");
+		
 		
 	}
 //	@DataProvider
